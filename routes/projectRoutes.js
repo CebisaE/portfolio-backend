@@ -3,13 +3,13 @@ const app= express.Router();
 const fixArray = require('../helpers')
 let Projects=[
     {"id":1,
-    "img_url":"https://i.postimg.cc/pXv1gGps/mock-portfolio.png",
-    "title":"Mock Portfolio",
-    "html":"9.2%",
-    "css":"50.8%",
-    "javascript":"0%",
-    "details": "a mock portfolio  built out of html",
-    "github":"https://github.com/CebisaE/project",
+    "img_url":"https://i.postimg.cc/sxsHbVSV/Screenshot-2022-04-29-124707.png",
+    "title":"Temperature Convertor",
+    "html":"38.5%",
+    "css":"19.3%",
+    "javascript":"42.2%",
+    "details": "a temperature convertor built out of javascript",
+    // "github":"https://github.com/CebisaE/project",
     "netlify":"https://emihlecebisa.netlify.app/"
 },
     {"id":2, 
@@ -19,7 +19,7 @@ let Projects=[
     "css":"24,1%",
     "javascript":"0%",
     "details":"a group work to test progress ",
-    "github":"https://github.com/Mugammad/Team_site",
+    // "github":"https://github.com/Mugammad/Team_site",
     "netlify":"https://idkhtml.netlify.app/"
 },
     {"id":3, 
@@ -29,7 +29,7 @@ let Projects=[
     "css":"7,4%",
     "javascript":"0%",
     "details":"my first e-commerce site",
-    "github":"https://github.com/CebisaE/onlinestore",
+    // "github":"https://github.com/CebisaE/onlinestore",
     "netlify":"https://istore-premium-reseller.netlify.app"
 },
     {"id":4,
@@ -39,7 +39,7 @@ let Projects=[
     "css":"50.8%",
     "javascript":"9,2%",
     "details":"a calculator with javascript ",
-    "github":"https://github.com/CebisaE/javascriptcalculator",
+    // "github":"https://github.com/CebisaE/javascriptcalculator",
     "netlify":"https://emihle-calculator.netlify.app"
 },
     {"id":5, 
@@ -49,7 +49,7 @@ let Projects=[
     "css":"37,2%",
     "javascript":"0%",
     "details":"my first attempt at making my portfolio",
-    "github":"https://github.com/CebisaE/mysite",
+    // "github":"https://github.com/CebisaE/mysite",
     "netlify":"https://emihle-cebisa.netlify.app"
 },
     {"id":6, 
@@ -59,7 +59,7 @@ let Projects=[
     "css":"4,2%",
     "javascript":"74.6%",
     "details":"my point of sales assignment",
-    "github":"https://github.com/CebisaE/pos-project",
+    // "github":"https://github.com/CebisaE/pos-project",
     "netlify":"https://mini-pos-project.netlify.app"
 }
 ];
